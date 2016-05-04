@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Nick Chamberlain</authors>
+    <owners>Nick Chamberlailn</owners>
+    <licenseUrl>https://github.com/heynickc/toJSON.git</licenseUrl>
+    <projectUrl>https://github.com/heynickc/toJSON.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple extension method so you can output any object to JSON and examine its contents</description>
+    <releaseNotes>Changed name</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>testing json</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" />
+    </dependencies>
+  </metadata>
+</package>
